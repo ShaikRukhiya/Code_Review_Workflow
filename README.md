@@ -1,3 +1,1 @@
-fastapi==0.99.0
-uvicorn[standard]==0.22.0
-pydantic==1.10.12
+
